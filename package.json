@@ -31,7 +31,8 @@
     "darwin",
     "linux",
     "freebsd",
-    "win32"
+    "win32",
+    "android"
   ],
   "dependencies": {
     "debug": "^4.1.1",
